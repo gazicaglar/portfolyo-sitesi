@@ -61,3 +61,16 @@ footer {
 .btn:hover {
   background-color: #555;
 }
+article {
+  margin-bottom: 30px;
+  padding: 15px;
+  background-color: #ffffff;
+  border-left: 4px solid #333;
+  border-radius: 5px;
+}
+
+article img {
+  margin-top: 10px;
+  max-width: 100%;
+  border-radius: 5px;
+}
